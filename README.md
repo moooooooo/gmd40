@@ -1,7 +1,6 @@
 # gmd40
 There is a C program i've written to initially increment up and down the channel on the Hughes and Kettner GrandMesiter Deluxe 40 amplifier.
 That's more about me tinkering with MIDI in C on Linux. It's not the main goal of this repo. See below.
----------------------------------------------------------------------------------------------------------------------------------------------
 
 i am also porting the original panel to Linux as the author kindly sent me the source.
 i will update this file with full attributions and thanks etc
