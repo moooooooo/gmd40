@@ -17,6 +17,6 @@ My initial focus will be to get the panel working with controller specifically f
 
 So it's likely i'll comment out specific code that refers to the 36 and/or the BS200.
 
-If i get sh!t working on the GMD40 ? Cool. Then i'll release spearate 36 and BS200 versions but obviously i can't test those so it will rely upon input and feedback - party on dude, soz !! - from you guys n gals.
+If i get sh!t working on the GMD40 ? Cool. Then i'll release separate 36 and BS200 versions but obviously i can't test those so it will rely upon input and feedback - party on dude, soz !! - from you guys n gals.
 
 Peter.
