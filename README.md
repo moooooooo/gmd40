@@ -13,7 +13,7 @@ The panel is written in Lua so, whilst i'm an experienced programmer ? I've not 
 
 What i do see is issues getting it to work on Linux - not because Linux has issues, no, but because of the many Linux "flavours" out there.
 
-My initial focus will be to get the panel working with controller specifically for myHughes and Kettner Grand Meister Deluxe 40 (GMD40) because i have the GMD40 and that's the only amp i can test this on.
+My initial focus will be to get the panel working with controller specifically for my Hughes and Kettner Grand Meister Deluxe 40 (GMD40) because i have the GMD40 and that's the only amp i can test this on.
 
 So it's likely i'll comment out specific code that refers to the 36 and/or the BS200.
 
