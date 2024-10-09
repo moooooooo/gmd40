@@ -1,6 +1,10 @@
 # gmd40
-There is a C program i've written to initially increment up and down the channel on the Hughes and Kettner GrandMesiter Deluxe 40 amplifier.
+Files
+---------------------------------------------------------------------------------------------------------------------------------------------
+peter1.c, rawmidi.c - These are C programs i've written to initially increment up and down the channel on the Hughes and Kettner GrandMesiter Deluxe 40 amplifier.
 That's more about me tinkering with MIDI in C on Linux. It's not the main goal of this repo. See below.
+
+gmd40.panel - not uploaded yet but is the panel i'm porting to Linux for ctrlr. There will be separate pnael files for the 36 and BS200.
 
 Plans
 ---------------------------------------------------------------------------------------------------------------------------------------------
