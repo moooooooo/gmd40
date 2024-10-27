@@ -6,7 +6,7 @@ That's more about me tinkering with MIDI in C on Linux. It's not the main goal o
 
 The panel files are in XML format but have Lua functions. These are used in the crtlr.org project.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 gmd40.panel - not uploaded yet but is the panel i'm porting to Linux for ctrlr. There will be separate panel files for the 36 and BS200.
 peter.panel - full binary panel from the macOS app.
 peter2.panel - WORK IN PROGRESS. This will be gmd40.panel in due course.
