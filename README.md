@@ -3,7 +3,7 @@
 peter1.c, rawmidi.c - These are C programs i've written to initially increment up and down the channel on the Hughes and Kettner GrandMesiter Deluxe 40 amplifier.
 That's more about me tinkering with MIDI in C on Linux. It's not the main goal of this repo. See below.
 
-The panel files are in XML format but have Lua functions. These are used in the crtlr.org project.
+The panel files are in XML format but have Lua functions. These are used in the https://crtlr.org/ project.
 
 ```
 gmd40.panel - not uploaded yet but is the panel i'm porting to Linux for ctrlr. There will be separate panel files for the 36 and BS200.
