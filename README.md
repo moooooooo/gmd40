@@ -10,7 +10,7 @@ gmd40.panel                             - not uploaded yet but is the panel i'm 
                                             There will be separate panel files for the 36 and BS200.
 peter.panel                             - full binary panel from the macOS app.
 peter2.panel                            - WORK IN PROGRESS. This will be gmd40.panel in due course.
-Hughes & Kettner App - Windows.zip      - this is the offical Windows app that was released. It's hard to find now and in conjunction with the GMD40 community i've hosted it here. It also contains an installer if you get that Dmissing DLL error.
+Hughes & Kettner App - Windows.zip      - this is the offical Windows app that was released. It's hard to find now and in conjunction with the GMD40 community i've hosted it here. It also contains an installer if you get that missing DLL error.
 Hughes & Kettner Remote - v1.0.app.zip  - the official Apple macOS app which as per above is hard to find these days.
 ```
 
